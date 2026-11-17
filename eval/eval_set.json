@@ -1,0 +1,22 @@
+[
+ {"id":1,"question":"What is the definition of a project in the basic definitions?","must_include":["temporary","unique"],"source":["lecture1.pdf","lecture2.pdf"],"answerable":true},
+ {"id":2,"question":"What is the difference between a program and a portfolio?","must_include":["coordinated","strategic"],"source":"lecture1.pdf","answerable":true},
+ {"id":3,"question":"How does software engineering differ from computer science?","must_include":["theory","practical"],"source":"lecture1.pdf","answerable":true},
+ {"id":4,"question":"What does SMART stand for in project objectives?","must_include":["specific","measurable","achievable","relevant","time"],"source":"lecture2.pdf","answerable":true},
+ {"id":5,"question":"According to the Standish Group figures, what percentage of ICT projects were late?","must_include":["82"],"source":"lecture2.pdf","answerable":true},
+ {"id":6,"question":"Why are software projects different from other projects?","must_include":["invisibility","complexity","conformity","flexibility"],"source":"lecture2.pdf","answerable":true},
+ {"id":7,"question":"What happens during project closure?","must_include":["post-implementation","lessons"],"source":"lecture2.pdf","answerable":true},
+ {"id":8,"question":"What is the payback period in the example with a 100,000 investment?","must_include":["4.5"],"source":"lecture3.pdf","answerable":true},
+ {"id":9,"question":"How is return on investment (ROI) calculated and what was the result in the example?","must_include":["average annual profit","10%"],"source":"lecture3.pdf","answerable":true},
+ {"id":10,"question":"What is the net present value of project 1 at a 10% discount rate?","must_include":["618"],"source":"lecture3.pdf","answerable":true},
+ {"id":11,"question":"Which project has the highest NPV and which is not worth considering?","must_include":["project 4","project 2"],"source":"lecture3.pdf","answerable":true},
+ {"id":12,"question":"What is a tranche in programme management?","must_include":["group of projects","step"],"source":"lecture3.pdf","answerable":true},
+ {"id":13,"question":"What risk premium is added to the discount rate for riskier projects?","must_include":["2%","5%"],"source":"lecture3.pdf","answerable":true},
+ {"id":14,"question":"What is Step 0 in Step Wise project planning?","must_include":["select","outside"],"source":"lecture4.pdf","answerable":true},
+ {"id":15,"question":"What is the major principle of project planning in Step Wise?","must_include":["outline","detail"],"source":"lecture4.pdf","answerable":true},
+ {"id":16,"question":"What are the advantages of off-the-shelf software?","must_include":["cheaper","trial"],"source":"lecture5.pdf","answerable":true},
+ {"id":17,"question":"What are the disadvantages of off-the-shelf software?","must_include":["competitive advantage","code"],"source":"lecture5.pdf","answerable":true},
+ {"id":18,"question":"Which process models are covered when selecting a project approach?","must_include":["waterfall","incremental"],"source":"lecture5.pdf","answerable":true},
+ {"id":19,"question":"What is the syntax of a Kubernetes Deployment YAML file?","must_include":[],"source":null,"answerable":false},
+ {"id":20,"question":"Who won the 2022 FIFA World Cup?","must_include":[],"source":null,"answerable":false}
+]

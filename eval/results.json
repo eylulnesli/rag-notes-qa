@@ -1,0 +1,24 @@
+{
+  "retrieval": {
+    "hit": 18,
+    "n": 18,
+    "context_recall": 0.806
+  },
+  "variants": {
+    "basic": {
+      "accuracy": 0.806,
+      "refusals": "0/2",
+      "avg_latency_s": 2.59
+    },
+    "grounded": {
+      "accuracy": 0.806,
+      "refusals": "2/2",
+      "avg_latency_s": 1.98
+    },
+    "grounded_cited": {
+      "accuracy": 0.764,
+      "refusals": "2/2",
+      "avg_latency_s": 2.15
+    }
+  }
+}
